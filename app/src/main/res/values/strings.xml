@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="action_settings">Settings</string>
+    
+    <string-array name="titles">
+        <item>Prvni polozka</item>
+        <item>Druha polozka</item>
+        <item>Treti_polozka</item>
+        <item>Ctvrta_polozka</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Prvni popisek</item>
+        <item>Druha popisek</item>
+        <item>Treti_popisek</item>
+        <item>Ctvrta_popisek</item>
+    </string-array>
 </resources>
